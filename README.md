@@ -28,7 +28,7 @@ and *train_length* is how many characters you want to train the model on
 
 # Output
 The transformer.py script outputs a file 'points.csv'
-To visulaize the points run:
+To visualize the points, run:
 > **python visualization.py**
 
 Note: matplotlib must be installed for visualization.py to run
